@@ -24,4 +24,4 @@ dependencies = [
 ]
 
 [project.urls]
-Home = "https://github.com/jakeox13/HW1-FAST-AQ-Parser"
+Home = "https://github.com/jakeox13/HW1-FAST-AQ-Parser.git"
